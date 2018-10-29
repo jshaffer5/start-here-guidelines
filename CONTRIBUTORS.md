@@ -1,5 +1,7 @@
 # Contributors
 
+-[@jshaffer5](https://github.com/jshaffer5)
+
 -[@eduardoenari](https://github.com/eduardoenari)
 
 -[@tienpham94](https://github.com/tienpham94)
